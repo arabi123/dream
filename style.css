@@ -1,0 +1,25 @@
+center{
+ 	color:blue;
+}
+body{
+	background-color:violet;
+}
+h2{
+	padding-left:60%;
+	color:green;
+}
+h3{
+	font-size:x-large;
+	color:red;
+}
+h4{
+	padding-left:46%;
+	font-size:x-large;
+	color:#340d7a;
+}
+h5{
+	padding-left:35%;
+	font-size:xx-large;
+	background-color:#f5427e;
+}
+
